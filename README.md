@@ -5,9 +5,10 @@ The **Syw.accountonline.com login** portal allows Shop Your Way (SYW) credit car
 ---
 <p align="center">
   <a href="https://syw.accountonline.com" target="_blank">
-    <img src="https://img.shields.io/badge/SYW%20Account-Login%20Now-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="SYW Account Login">
+    <img src="https://img.shields.io/badge/Secure%20Login-SYW%20Account-2EA44F?style=for-the-badge" alt="Secure SYW Login">
   </a>
 </p>
+
 
 
 ## What Is Syw.accountonline.com?
